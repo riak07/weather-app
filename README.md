@@ -31,3 +31,12 @@ Install packages:
 >npm install react-native-svg
 >npx expo install --fix
 >npx expo install --check
+
+__________________________________________________________________________________
+
+Run Project: 
+>git clone https://github.com/riak07/weather-app.git
+>cd weather-app
+>npm install
+>npm start
+>w
